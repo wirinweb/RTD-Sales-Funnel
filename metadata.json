@@ -1,0 +1,7 @@
+{
+  "name": "Sales Funnel Dashboard",
+  "description": "An interactive dashboard that visualizes a sales funnel, showing the status of deals with different regions, based on data from a sheet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
